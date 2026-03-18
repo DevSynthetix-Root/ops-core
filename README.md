@@ -1,4 +1,4 @@
-# 🟢 Ultimate GitHub Streak Bot
+# 🟢 Ultimate Devsynthetix-root 
 
 ![GitHub Actions](https://img.shields.io/badge/Status-Automated-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
